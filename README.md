@@ -1,2 +1,2 @@
 # Machine-learning-algorithms
-Repository which will have almost all of the ML algorithms i will learn.
+Machine learning algorithms I've implemented from scratch!
